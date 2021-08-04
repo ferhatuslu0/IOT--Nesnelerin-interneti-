@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Navigation Drawer Example</string>
+    <string name="app_name2">Spinner</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="mesajSecim">
+
+        <item>Mesaj Süresini Seçiniz</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+
+    <string-array name="unvanSecim">
+        <item>Ünvanınızı Seçin</item>
+        <item>Asistan</item>
+        <item>Öğ.Üye.</item>
+        <item>Doç.Dr.</item>
+        <item>Pro.Dr.</item>
+    </string-array>
+
+</resources>
